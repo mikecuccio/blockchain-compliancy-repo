@@ -1,3 +1,3 @@
-# Blockchain complaincy exporation project
+# Blockchain compliancy exploration project
 
-Blockchain complaincy exporation project
+Blockchain apparel manufactoring compliancy exploration project
